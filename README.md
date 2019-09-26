@@ -5,7 +5,7 @@ Translator Termux
 <p><li>pkg install requests</li></p>
 
 <p><b>INSTALL</b></p>
-<p>git clone https://github.com/ydimas60/translate</p>
+<p>git clone https://github.com/ydimas60/terjemahan</p>
 
 <p><b>Cara Penggunaan</b></p>
 <p>cd translate</p>
