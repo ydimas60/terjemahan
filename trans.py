@@ -1,5 +1,8 @@
-import requests, sys
+import requests, sys, os
 from bs4 import BeautifulSoup
+
+os.system('clear')
+
 #source language
 source_language = [
     "US",
