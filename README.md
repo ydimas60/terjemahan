@@ -14,3 +14,4 @@ Translator Termux
 <p><b>CONTOH</b</p>
 <p>python2  trans.py ID-US "Halo ngotakdikit.com , Apa kabar?"</p>
 
+<p>Tutorial selengkapnya baca di >>> <a href='https://www.ngotakdikit.com/2019/09/cara-translate-kalimat-menggunakan-aplikasi-termux.html'>https://www.ngotakdikit.com/2019/09/cara-translate-kalimat-menggunakan-aplikasi-termux.html</a></p>
